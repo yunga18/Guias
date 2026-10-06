@@ -1,6 +1,6 @@
 # Retazos · Tu pequeño taller
 
-Guías artesanales en español para aprovechar retazos de madera con una sierra de mano y un taladro. Incluye 16 proyectos ilustrados, búsqueda, categorías, favoritos y avance por pasos.
+Guías artesanales en español para aprovechar retazos de madera con una sierra de mano y un taladro. Incluye 21 proyectos ilustrados, búsqueda, categorías, favoritos y avance por pasos.
 
 ## Publicar en GitHub Pages
 
@@ -28,3 +28,9 @@ Favoritos y avances se guardan en el navegador mediante localStorage. No se sinc
 ## Proyectos y materiales
 
 El carrito y la furgoneta incluyen 8 pasos cada uno, ruedas reales cortadas con sierra de copa y montaje con tornillos y arandelas. Las dimensiones son una propuesta de diseño no ensayada físicamente: el usuario debe verificar la combinación corona/agujero/tornillo, la longitud de inserción y la holgura de giro. Son modelos de empuje, sin motor ni dirección. Los llaveros necesitan una argolla y los colgantes un cordón; cada guía lo indica. Todos los cortes y perforaciones necesitan una sujeción segura, protección ocular y retirada de astillas antes del uso. Las ilustraciones son explicativas, no planos a escala.
+
+## Autómatas de madera
+
+Cinco propuestas con 8 pasos ilustrados cada una: flor vertical, estrellas alternadas (180°), olas desfasadas (90°), pájaro con palanca y barco basculante. El contenido está en `automataProjects` de `illustrations.js`. Comparten un marco de 180 × 100 × 130 mm y usan discos excéntricos con el agujero del eje separado del agujero de la broca guía. Cada guía incluye despiece, uniones fijas, zonas que deben moverse libres y pruebas de ajuste.
+
+Son diseños propios no ensayados físicamente; las dimensiones requieren prueba de encaje y adaptación a las piezas reales. El Exploratorium se enlaza como referencia conceptual de levas y seguidores en cartón, no como autor ni validador de estos planos en madera. Se necesita cola, varillas y, según el modelo, tornillos y arandelas adicionales.
